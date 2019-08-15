@@ -1,0 +1,7 @@
+D:\ИПЗ\HeadphoneService\HeadphoneService\bin\Debug\HeadphoneService.exe.config
+D:\ИПЗ\HeadphoneService\HeadphoneService\bin\Debug\HeadphoneService.exe
+D:\ИПЗ\HeadphoneService\HeadphoneService\bin\Debug\HeadphoneService.pdb
+D:\ИПЗ\HeadphoneService\HeadphoneService\obj\Debug\HeadphoneService.csprojAssemblyReference.cache
+D:\ИПЗ\HeadphoneService\HeadphoneService\obj\Debug\HeadphoneService.csproj.CoreCompileInputs.cache
+D:\ИПЗ\HeadphoneService\HeadphoneService\obj\Debug\HeadphoneService.exe
+D:\ИПЗ\HeadphoneService\HeadphoneService\obj\Debug\HeadphoneService.pdb

@@ -1,0 +1,55 @@
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\bin\Debug\CourseWork.Presentation.exe
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\bin\Debug\CourseWork.Presentation.pdb
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\bin\Debug\Course_work.exe
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\bin\Debug\Course_work.pdb
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form1.resources
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Properties.Resources.resources
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.exe
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.pdb
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form2.resources
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form3.resources
+C:\!VERA-WORK\!2012\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.exe
+C:\!VERA-WORK\!2012\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.pdb
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.exe
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.pdb
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\bin\Debug\CourseWork.Presentation.exe
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\bin\Debug\CourseWork.Presentation.pdb
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\bin\Debug\Course_work.exe
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\bin\Debug\Course_work.pdb
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csprojResolveAssemblyReference.cache
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form1.resources
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form2.resources
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form3.resources
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Properties.Resources.resources
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csproj.GenerateResource.Cache
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\bin\Debug\CourseWork.Presentation.exe
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\bin\Debug\CourseWork.Presentation.pdb
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\bin\Debug\Course_work.exe
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\bin\Debug\Course_work.pdb
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csprojAssemblyReference.cache
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form1.resources
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form2.resources
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form3.resources
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Properties.Resources.resources
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csproj.GenerateResource.cache
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csproj.CoreCompileInputs.cache
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csproj.CopyComplete
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.exe
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.pdb
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\bin\Debug\CourseWork.Presentation.exe
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\bin\Debug\CourseWork.Presentation.pdb
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\bin\Debug\Course_work.exe
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\bin\Debug\Course_work.pdb
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csprojAssemblyReference.cache
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form1.resources
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form2.resources
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Form3.resources
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.Properties.Resources.resources
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csproj.GenerateResource.cache
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csproj.CoreCompileInputs.cache
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.csproj.CopyComplete
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.exe
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\CourseWork.Presentation\obj\x86\Debug\CourseWork.Presentation.pdb

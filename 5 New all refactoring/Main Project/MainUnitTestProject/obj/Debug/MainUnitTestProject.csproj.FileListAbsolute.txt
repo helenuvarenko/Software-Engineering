@@ -1,0 +1,17 @@
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\MainUnitTestProject.dll
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\MainUnitTestProject.pdb
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Tree_Class.exe
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Tree_Class.pdb
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Tree_Class.exe.config
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\obj\Debug\MainUnitTestProject.csprojAssemblyReference.cache
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\obj\Debug\MainUnitTestProject.csproj.CoreCompileInputs.cache
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\obj\Debug\MainUnitTestProject.csproj.CopyComplete
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\obj\Debug\MainUnitTestProject.dll
+D:\ИПЗ\5 New all refactoring\Main Project\MainUnitTestProject\obj\Debug\MainUnitTestProject.pdb

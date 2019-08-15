@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{232AEC30-0132-4614-8A99-A53AB96CD15A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Pytomnik</RootNamespace>
+    <AssemblyName>Pytomnik</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Factory\EgyptFactory.cs" />
+    <Compile Include="Flowers\Gladiolus.cs" />
+    <Compile Include="Factory\ICompositionFactory.cs" />
+    <Compile Include="Compositions\IFlowers.cs" />
+    <Compile Include="Compositions\IKustarniki.cs" />
+    <Compile Include="Compositions\ITravy.cs" />
+    <Compile Include="Flowers\Peony.cs" />
+    <Compile Include="Kustarniki\Aloe.cs" />
+    <Compile Include="Kustarniki\Aspidistra.cs" />
+    <Compile Include="Kustarniki\Chlorophytum.cs" />
+    <Compile Include="Kustarniki\Dogrose.cs" />
+    <Compile Include="Kustarniki\Gaillardia.cs" />
+    <Compile Include="Kustarniki\Ivy.cs" />
+    <Compile Include="Kustarniki\Sansevieria.cs" />
+    <Compile Include="Kustarniki\Thuja.cs" />
+    <Compile Include="Factory\PolissyaFactory.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Flowers\Rose.cs" />
+    <Compile Include="Flowers\Tulip.cs" />
+    <Compile Include="Flowers\Violet.cs" />
+    <Compile Include="Flowers\Yarrow.cs" />
+    <Compile Include="Travy\Cactus.cs" />
+    <Compile Include="Travy\Dracaena.cs" />
+    <Compile Include="Travy\Lungwort.cs" />
+    <Compile Include="Travy\Marjoram.cs" />
+    <Compile Include="Travy\Sagebrush.cs" />
+    <Compile Include="Travy\Salvia.cs" />
+    <Compile Include="Factory\YourFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

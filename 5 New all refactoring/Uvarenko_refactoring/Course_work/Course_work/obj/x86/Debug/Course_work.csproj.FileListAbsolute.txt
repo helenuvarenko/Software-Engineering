@@ -1,0 +1,22 @@
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\Course_work\bin\Debug\Course_work.exe
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\Course_work\bin\Debug\Course_work.pdb
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\Course_work\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\Course_work\obj\x86\Debug\Course_work.exe
+C:\Users\aktan1812\Desktop\Курсач\Прога\Course_work\Course_work\obj\x86\Debug\Course_work.pdb
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\Course_work\bin\Debug\Course_work.exe
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\Course_work\bin\Debug\Course_work.pdb
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\Course_work\obj\x86\Debug\Course_work.csprojResolveAssemblyReference.cache
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\Course_work\obj\x86\Debug\Course_work.exe
+F:\!2013_work\for_CE_3\2\CE1-Kursovi\Stupa\Course_work\Course_work\obj\x86\Debug\Course_work.pdb
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\Course_work\bin\Debug\Course_work.exe
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\Course_work\bin\Debug\Course_work.pdb
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\Course_work\obj\x86\Debug\Course_work.csprojAssemblyReference.cache
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\Course_work\obj\x86\Debug\Course_work.csproj.CoreCompileInputs.cache
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\Course_work\obj\x86\Debug\Course_work.exe
+D:\ИПЗ\5 All refactoring\Uvarenko_refactoring\Course_work\Course_work\obj\x86\Debug\Course_work.pdb
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\Course_work\bin\Debug\Course_work.exe
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\Course_work\bin\Debug\Course_work.pdb
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\Course_work\obj\x86\Debug\Course_work.csprojAssemblyReference.cache
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\Course_work\obj\x86\Debug\Course_work.csproj.CoreCompileInputs.cache
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\Course_work\obj\x86\Debug\Course_work.exe
+D:\ИПЗ\5 New all refactoring\Uvarenko_refactoring\Course_work\Course_work\obj\x86\Debug\Course_work.pdb

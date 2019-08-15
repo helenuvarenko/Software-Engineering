@@ -1,0 +1,7 @@
+D:\ИПЗ\Algor\Algor\bin\Debug\Algor.exe.config
+D:\ИПЗ\Algor\Algor\bin\Debug\Algor.exe
+D:\ИПЗ\Algor\Algor\bin\Debug\Algor.pdb
+D:\ИПЗ\Algor\Algor\obj\Debug\Algor.csprojAssemblyReference.cache
+D:\ИПЗ\Algor\Algor\obj\Debug\Algor.csproj.CoreCompileInputs.cache
+D:\ИПЗ\Algor\Algor\obj\Debug\Algor.exe
+D:\ИПЗ\Algor\Algor\obj\Debug\Algor.pdb

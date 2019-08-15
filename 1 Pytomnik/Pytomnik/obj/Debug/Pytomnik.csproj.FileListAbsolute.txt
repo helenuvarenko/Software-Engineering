@@ -1,0 +1,7 @@
+D:\ИПЗ\Pytomnik\Pytomnik\bin\Debug\Pytomnik.exe.config
+D:\ИПЗ\Pytomnik\Pytomnik\bin\Debug\Pytomnik.exe
+D:\ИПЗ\Pytomnik\Pytomnik\bin\Debug\Pytomnik.pdb
+D:\ИПЗ\Pytomnik\Pytomnik\obj\Debug\Pytomnik.csproj.CoreCompileInputs.cache
+D:\ИПЗ\Pytomnik\Pytomnik\obj\Debug\Pytomnik.exe
+D:\ИПЗ\Pytomnik\Pytomnik\obj\Debug\Pytomnik.pdb
+D:\ИПЗ\Pytomnik\Pytomnik\obj\Debug\Pytomnik.csprojAssemblyReference.cache

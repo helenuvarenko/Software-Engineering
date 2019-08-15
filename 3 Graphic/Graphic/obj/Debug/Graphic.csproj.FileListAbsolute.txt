@@ -1,0 +1,7 @@
+D:\ИПЗ\Graphic\Graphic\bin\Debug\Graphic.exe.config
+D:\ИПЗ\Graphic\Graphic\bin\Debug\Graphic.exe
+D:\ИПЗ\Graphic\Graphic\bin\Debug\Graphic.pdb
+D:\ИПЗ\Graphic\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+D:\ИПЗ\Graphic\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+D:\ИПЗ\Graphic\Graphic\obj\Debug\Graphic.exe
+D:\ИПЗ\Graphic\Graphic\obj\Debug\Graphic.pdb

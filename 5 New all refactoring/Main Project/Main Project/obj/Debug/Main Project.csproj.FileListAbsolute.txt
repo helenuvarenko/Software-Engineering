@@ -1,0 +1,16 @@
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\bin\Debug\Main Project.exe.config
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\bin\Debug\Main Project.exe
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\bin\Debug\Main Project.pdb
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main Project.csprojAssemblyReference.cache
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main_Project.Form1.resources
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main_Project.Properties.Resources.resources
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main Project.csproj.GenerateResource.cache
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main Project.csproj.CoreCompileInputs.cache
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main Project.exe
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main Project.pdb
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\bin\Debug\Tree_Class.exe
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\bin\Debug\Tree_Class.pdb
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\bin\Debug\Tree_Class.exe.config
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main_Project.Form2.resources
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main_Project.Form3.resources
+D:\ИПЗ\5 New all refactoring\Main Project\Main Project\obj\Debug\Main Project.csproj.CopyComplete

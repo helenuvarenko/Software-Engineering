@@ -1,0 +1,7 @@
+D:\ИПЗ\Algorythm\Algorythm\obj\Debug\Algorythm.csprojAssemblyReference.cache
+D:\ИПЗ\Algorythm\Algorythm\obj\Debug\Algorythm.csproj.CoreCompileInputs.cache
+D:\ИПЗ\Algorythm\Algorythm\bin\Debug\Algorythm.exe.config
+D:\ИПЗ\Algorythm\Algorythm\bin\Debug\Algorythm.exe
+D:\ИПЗ\Algorythm\Algorythm\bin\Debug\Algorythm.pdb
+D:\ИПЗ\Algorythm\Algorythm\obj\Debug\Algorythm.exe
+D:\ИПЗ\Algorythm\Algorythm\obj\Debug\Algorythm.pdb

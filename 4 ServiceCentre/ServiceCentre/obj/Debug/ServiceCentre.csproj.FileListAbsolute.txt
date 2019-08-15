@@ -1,0 +1,10 @@
+D:\ИПЗ\ServiceCentre\ServiceCentre\bin\Debug\ServiceCentre.exe.config
+D:\ИПЗ\ServiceCentre\ServiceCentre\bin\Debug\ServiceCentre.exe
+D:\ИПЗ\ServiceCentre\ServiceCentre\bin\Debug\ServiceCentre.pdb
+D:\ИПЗ\ServiceCentre\ServiceCentre\obj\Debug\ServiceCentre.csprojAssemblyReference.cache
+D:\ИПЗ\ServiceCentre\ServiceCentre\obj\Debug\ServiceCentre.Form1.resources
+D:\ИПЗ\ServiceCentre\ServiceCentre\obj\Debug\ServiceCentre.Properties.Resources.resources
+D:\ИПЗ\ServiceCentre\ServiceCentre\obj\Debug\ServiceCentre.csproj.GenerateResource.cache
+D:\ИПЗ\ServiceCentre\ServiceCentre\obj\Debug\ServiceCentre.csproj.CoreCompileInputs.cache
+D:\ИПЗ\ServiceCentre\ServiceCentre\obj\Debug\ServiceCentre.exe
+D:\ИПЗ\ServiceCentre\ServiceCentre\obj\Debug\ServiceCentre.pdb
